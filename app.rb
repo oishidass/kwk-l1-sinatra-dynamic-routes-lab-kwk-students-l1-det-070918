@@ -8,5 +8,9 @@ class App < Sinatra::Base
 end
 
 gets '/squaare/:number'
-@param[:num1].to_i
+num = @param[:number]
+(num.to_i**2).to_s 
+end 
+
+gets'/
 
