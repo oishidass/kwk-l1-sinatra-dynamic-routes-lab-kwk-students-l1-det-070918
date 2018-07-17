@@ -9,3 +9,4 @@ end
 
 gets '/squaare/:number'
 @param[:num1].to_i
+
