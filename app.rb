@@ -12,5 +12,6 @@ num = @param[:number]
 (num.to_i**2).to_s 
 end 
 
-gets'/
+gets'/say/:word1/:word2/:word3/:word4/:word5'
+
 
